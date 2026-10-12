@@ -52,6 +52,4 @@ The project includes a machine-learning-based gesture classification component. 
 
 
 
-## License
-
-This project is intended for educational and research purposes. See the `LICENSE` file for licensing terms.
+<img width="428" height="501" alt="image" src="https://github.com/user-attachments/assets/233a096a-0c8f-49f7-876a-60888e487fe1" />
